@@ -3,9 +3,6 @@ This is a telegram bot writen in python for mirroring files on the internet to o
 
 # Inspiration 
 This project is heavily inspired from @out386 's telegram bot which is written in JS.
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mangpa444/aria-telegram-mirror-bot/tree/master)
-
-
 
 # Features supported:
 - Mirroring direct download links to google drive
@@ -20,6 +17,7 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 - Mirror telegram files
 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/akhil12421289/pamb/tree/master)
 
 
  
